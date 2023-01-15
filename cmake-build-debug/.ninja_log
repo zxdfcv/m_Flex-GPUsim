@@ -1,0 +1,25 @@
+# ninja log v5
+12	115	6940240506836724	CMakeFiles/Flex-GPUsim.dir/mem_fetch.cpp.obj	f6ddc67da5faa49c
+39	216	6940240507863972	CMakeFiles/Flex-GPUsim.dir/debug.cpp.obj	fdf73224dfd5bbe6
+5	1111	6940240516810069	CMakeFiles/Flex-GPUsim.dir/config_reader.cpp.obj	ca46adbaf2c2fe2e
+47	1071	6940240516401148	CMakeFiles/Flex-GPUsim.dir/crossbar.cpp.obj	aa871f58b42db43e
+8	459	6940240510297462	CMakeFiles/Flex-GPUsim.dir/toplevel.cpp.obj	80e13889af5c2dca
+32	373	6940240509419812	CMakeFiles/Flex-GPUsim.dir/tlb.cpp.obj	ef954e4ae358994e
+34	2361	6946093464760327	CMakeFiles/Flex-GPUsim.dir/main.cpp.obj	13c2934c60a14ad0
+3	2597	6946093467108390	CMakeFiles/Flex-GPUsim.dir/trace_reader.cpp.obj	8fdb68d7daa680dc
+28	2967	6946093470810467	CMakeFiles/Flex-GPUsim.dir/cache.cpp.obj	2895512768c6cd01
+38	3192	6946093473044509	CMakeFiles/Flex-GPUsim.dir/kernel.cpp.obj	2f71083dc7f64c1c
+31	3929	6946093480419949	CMakeFiles/Flex-GPUsim.dir/gpu.cpp.obj	d85c064c6a92f81b
+3929	6742	6946093508539135	Flex-GPUsim.exe	282bec45690982c0
+19	98	6955131194327798	CMakeFiles/Flex-GPUsim.dir/mem_fetch.cpp.obj	7fbdf8e1e719451d
+38	195	6955131195305187	CMakeFiles/Flex-GPUsim.dir/debug.cpp.obj	74dfa5516c0ae28c
+26	363	6955131197000652	CMakeFiles/Flex-GPUsim.dir/tlb.cpp.obj	7dbcc2253f337781
+16	425	6955131197619004	CMakeFiles/Flex-GPUsim.dir/toplevel.cpp.obj	3d3aa9b747c412f7
+8	985	6955131203204094	CMakeFiles/Flex-GPUsim.dir/config_reader.cpp.obj	4713104400457626
+43	1074	6955131204101695	CMakeFiles/Flex-GPUsim.dir/crossbar.cpp.obj	77fdf169f59eac68
+30	1593	6955131209277831	CMakeFiles/Flex-GPUsim.dir/main.cpp.obj	9127e5a057c76995
+3	1713	6955131210474654	CMakeFiles/Flex-GPUsim.dir/trace_reader.cpp.obj	afc38eaff61ccbd5
+12	2027	6955131213616231	CMakeFiles/Flex-GPUsim.dir/cache.cpp.obj	e88e15e77b68d48a
+34	2161	6955131214942690	CMakeFiles/Flex-GPUsim.dir/kernel.cpp.obj	ec2fd214bd465b38
+23	2664	6955131219949305	CMakeFiles/Flex-GPUsim.dir/gpu.cpp.obj	7cff18a411f18417
+2664	5049	6955131243795565	Flex-GPUsim.exe	282bec45690982c0
