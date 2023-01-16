@@ -20,7 +20,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37fb9991-23d3-4735-b8a0-a95e93f2e6f3" name="变更" comment="001" />
+    <list default="true" id="37fb9991-23d3-4735-b8a0-a95e93f2e6f3" name="变更" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crossbar.h" beforeDir="false" afterPath="$PROJECT_DIR$/crossbar.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,8 +107,16 @@
       <workItem from="1673809968474" duration="371000" />
       <workItem from="1673810355536" duration="176000" />
       <workItem from="1673810539984" duration="5000" />
-      <workItem from="1673810599226" duration="1000" />
+      <workItem from="1673810599226" duration="338000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1673810662170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673810662170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>

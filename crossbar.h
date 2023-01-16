@@ -92,11 +92,11 @@ protected:
 };
 
 class MCM_icnt {
-    std::vector<LocalInterconnect> icnts;
     //以下部分先不做捏
     void init();
     void icnt_cycle();
     void icnt_connect_cycle();
+    bool HasBuffer(unsigned deviceID, unsigned int size) const;
 //    bool Busy() const; //这个不道有啥用先不管
 
 
@@ -104,9 +104,9 @@ class MCM_icnt {
     void Push(unsigned input_deviceID, unsigned output_deviceID, void* data,
               unsigned int size);
     void* Pop(unsigned ouput_deviceID);
-    bool HasBuffer(unsigned deviceID, unsigned int size) const; // 待定
 
 protected:
+    std::vector<LocalInterconnect> m_icnts;
     const inct_config& m_inct_config;
     unsigned n_shader, n_mem;
     unsigned n_subnets;
