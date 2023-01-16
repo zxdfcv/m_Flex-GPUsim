@@ -1,0 +1,6 @@
+.git
+.idea
+cmake-build-debug
+CMakeLists.txt
+benchmarks
+
